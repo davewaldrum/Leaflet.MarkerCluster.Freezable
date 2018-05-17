@@ -1,0 +1,24 @@
+{
+  "name": "leaflet.markercluster.freezable.davewaldrum",
+  "description": "Sub-plugin for Leaflet.markercluster plugin; adds the ability to freeze clusters at a specified zoom.",
+  "main": "dist/leaflet.markercluster.freezable-src.js",
+  "authors": [
+    "Boris Seang"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "leaflet",
+    "leaflet.markercluster",
+    "plugins",
+    "maps",
+    "freezable"
+  ],
+  "homepage": "https://github.com/davewaldrum/Leaflet.MarkerCluster.Freezable",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
